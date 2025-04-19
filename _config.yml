@@ -1,4 +1,1 @@
-domain: tgitcstudios.com      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://tgitcstudios.com  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /TGITC-Studios.github.io/      # place folder name if the site is served in a subfolder
 runs-on: self-hosted
